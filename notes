@@ -1,0 +1,10 @@
+$ npm install --save-dev autoprefixer postcss-cli tailwindcss
+$ npx tailwindcss init --full
+$ npm i react-toastify react-transition-group react-youtube redux react-redux axios redux-thunk
+$ npm i react-router-dom@5.2.0
+
+
+Last video yg belum selesai: login integrasi api part 2 menit 4:50
+
+
+REFERENSI https://ordinarycoders.com/blog/article/react-axios-get-post-delete
